@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Supply_Chain";
-export PYTHONPATH=/home/minicoder/anaconda3/lib/python3.7/site-packages
+export PYTHONPATH=/opt/python/3/bin/python
 echo "========================"
 echo $PYTHONPATH
 echo ${3}
