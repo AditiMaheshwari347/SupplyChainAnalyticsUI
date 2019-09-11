@@ -1,9 +1,6 @@
 #!/bin/bash
 
 echo "Supply_Chain";
-export PYTHONPATH=/opt/python/3/bin/python
-echo "========================"
-echo $PYTHONPATH
 echo ${3}
 sudo apt-get -y install git;
 sudo pip3 install wheel;
